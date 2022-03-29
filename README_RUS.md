@@ -10,7 +10,7 @@
 Загрузить архив с проектом можно с сайта www.sopds.ru, 
 либо из github.com следующей командой:
 
-	git clone https://github.com/mitshel/sopds.git
+	git clone https://github.com/alftanner/sopds.git
 
 1.2 Зависимости.  
 - Требуется Python не ниже версии 3.4
