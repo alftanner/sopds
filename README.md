@@ -10,7 +10,7 @@
 You can download the archive with the project from www.sopds.ru,
 or from github.com with the following command:
 
-	git clone https://github.com/mitshel/sopds.git
+	git clone https://github.com/alftanner/sopds.git
 
 1.2 Dependencies.
 - Requires Python at least version 3.4
